@@ -1,1 +1,1 @@
-# Hand-On-Linux-Network-Administration-Project---CSIS3744
+Completed a Linux and Network Administration project using VirtualBox, Ubuntu Server, and command line tools. Configured and managed an FTP server, performed file transfers via FTP and SHH, set up firewall and IP tables, and automated tasks using the Linux script utility. Gained hand-on experience in system configuration, user management, and network troubleshooting
